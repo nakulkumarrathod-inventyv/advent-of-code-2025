@@ -3,6 +3,7 @@ using namespace std;
 int main(){
     string myText;
 
+    // ifstream MyReadFile("test_1_1.txt");
     ifstream MyReadFile("input_1_1.txt");
 
     int start = 50;
